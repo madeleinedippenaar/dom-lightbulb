@@ -1,0 +1,10 @@
+#lightbulb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    height: 50px;
+    width: 100px;
+    border-radius: 20%;
+    background-color: darkgray;
+}
